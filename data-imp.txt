@@ -1,0 +1,1 @@
+cv2 is faster than tensorflow and scimage for reading and resizing 
