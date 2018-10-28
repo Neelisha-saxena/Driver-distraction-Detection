@@ -1,5 +1,7 @@
 
 (Dataset link) = https://www.kaggle.com/c/state-farm-distracted-driver-detection/download/imgs.zip P.S. : We have used only train images in the project, since we don't have labels for other images in test.
+Our project aims to mitigate the above problem by identifying cause of distraction and warning the driver if he gets distracted and thus prevent an accident from happening.
+
 
 CONVOLUTION NEURAL NETWORK FOR IMAGE CLASSIFICATION:
 
